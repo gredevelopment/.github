@@ -1,0 +1,5 @@
+- 👋 Hi, we're @gre-dev, a web development company located in the UK.
+- 👀 We're interested in building web & mobile applications for businesses around the world.
+- ✨ Our goal is to make the development process quicker with higher quality.
+- 💞️ We really appreciate collaburating with creative developers & designers to scale up our team.
+- 📫 You can contact us by sending an email to: [info[at]gredev[dot]io](mailto:info@gredev.io)
